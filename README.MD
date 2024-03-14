@@ -26,3 +26,6 @@ Building an E-commerce website in Django? Feel free to use this project as a sta
 If you're using Stripe, make sure to replace the STRIPE_API_KEY in settings.py before using. The current one is an outdated test key. 
 
 Also the actual logic of checkouts is handled in main/payments.py file. Modify that if you aren't using Stripe.
+
+## About me
+I'm a freelance developer. Wanna see more of my work? See my website here: https://www.hassandev.me
