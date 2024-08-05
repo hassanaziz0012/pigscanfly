@@ -27,5 +27,8 @@ If you're using Stripe, make sure to replace the STRIPE_API_KEY in settings.py b
 
 Also the actual logic of checkouts is handled in main/payments.py file. Modify that if you aren't using Stripe.
 
-## About me
-I'm a freelance developer. Wanna see more of my work? See my website here: https://www.hassandev.me
+## Author
+- Hassan Aziz
+- Web Developer and Designer
+- Website: https://www.hassandev.me
+- Check out my other [web projects](https://www.hassandev.me/projects)
